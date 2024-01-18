@@ -1,3 +1,3 @@
 # Demo
 
-This is a dmeo!
+This is a demo!
